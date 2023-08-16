@@ -37,8 +37,6 @@ function agregaralumno(){
 
 let botonAgregar= document.getElementById("agrega")
 botonAgregar.addEventListener("click",agregaralumno)
-lista2= {...lista}
-console.log(lista)
 
 
 let json= document.getElementById("json")
